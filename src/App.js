@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Duilio
+          Learn React Duilio Marcelo
         </a>
       </header>
     </div>
